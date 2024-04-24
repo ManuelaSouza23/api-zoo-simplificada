@@ -94,3 +94,5 @@ export class Animal {
         this.generoAnimal = genero;
     }
 }
+
+
